@@ -13,11 +13,13 @@ This analysis investigates factors influencing customer churn, focusing on contr
 
 Recommendation: Encourage long-term contracts with incentives like discounts or bundled services.
 
+
 💳 Payment Methods and Churn
 
 45% of customers using electronic checks churn, while those using credit cards, bank transfers, or mailed checks have churn rates of 15-18%.
 
 Recommendation: Promote secure and reliable payment methods via targeted campaigns.
+
 
 ⏳ Churn by Tenure
 
@@ -27,17 +29,20 @@ Churn decreases to 35% for customers with 1-3 years and 15% for those with 3+ ye
 
 Recommendation: Implement early engagement programs and loyalty rewards to retain new customers.
 
+
 🌐 Churn by Internet Service Type
 
 Fiber Optic users churn at 30%, compared to 20% for DSL users.
 
 Recommendation: Improve fiber optic service quality and address customer concerns through feedback surveys.
 
+
 👴 Senior Citizens and Churn
 
 41% churn rate among senior citizens (65+ years old) vs. 26% for younger customers.
 
 Recommendation: Create tailored retention programs, including senior-friendly support and exclusive offers.
+
 
 📊 Visualizations & Data Insights
 
