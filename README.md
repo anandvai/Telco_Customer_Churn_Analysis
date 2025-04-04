@@ -1,73 +1,88 @@
-# Telco_Customer_Churn_Analysis
+# 📊 Telco Customer Churn Analysis
 
+## 📌 Objective  
+This project explores the key factors contributing to customer churn in a telecommunications company. It focuses on contract types, payment methods, tenure, internet service type, and demographics to derive actionable insights and recommend retention strategies.
 
-📌 Objective
+---
 
-This analysis investigates factors influencing customer churn, focusing on contract types, payment methods, and tenure to identify key drivers and recommend retention strategies.
+## 🔍 Key Insights
 
-🔍 Key Insights
+### 📜 1. Contract Type and Churn  
+- **42%** of customers on **month-to-month** contracts churned.  
+- Compared to only **11%** on **one-year** and **3%** on **two-year** contracts.  
+**🔁 Recommendation:** Encourage long-term contracts using **discounts**, **bundled services**, or **loyalty perks**.
 
-📜 Contract Type and Churn
+---
 
-42% of customers on month-to-month contracts churn, compared to 11% for one-year and 3% for two-year contracts.
+### 💳 2. Payment Methods and Churn  
+- **45%** churn rate among customers using **electronic checks**.  
+- Lower churn (15–18%) for **credit cards**, **bank transfers**, and **mailed checks**.  
+**🔁 Recommendation:** Promote **secure & reliable payment methods** via **targeted communication**.
 
-Recommendation: Encourage long-term contracts with incentives like discounts or bundled services.
+---
 
+### ⏳ 3. Churn by Tenure  
+- **50%** churn rate for customers with **less than 1 year** of tenure.  
+- Drops to **35%** for **1–3 years** and **15%** for **3+ years**.  
+**🔁 Recommendation:** Focus on **early engagement** with **onboarding programs** and **loyalty rewards**.
 
-💳 Payment Methods and Churn
+---
 
-45% of customers using electronic checks churn, while those using credit cards, bank transfers, or mailed checks have churn rates of 15-18%.
+### 🌐 4. Internet Service Type  
+- **Fiber Optic** users churn at **30%** vs. **DSL users** at **20%**.  
+**🔁 Recommendation:** Improve **fiber optic service quality**, and collect feedback through **surveys**.
 
-Recommendation: Promote secure and reliable payment methods via targeted campaigns.
+---
 
+### 👴 5. Senior Citizens and Churn  
+- **41%** churn among **senior citizens (65+)** vs. **26%** for younger users.  
+**🔁 Recommendation:** Design **senior-friendly support**, **dedicated plans**, and **personalized offers**.
 
-⏳ Churn by Tenure
+---
 
-50% churn rate among customers with less than one year of tenure.
+## 📊 Visualizations & Data Insights  
+📈 Analysis performed using bar charts, line graphs, and distribution plots highlighted:
 
-Churn decreases to 35% for customers with 1-3 years and 15% for those with 3+ years.
+- Electronic check users churn **~3x more** than credit card users.  
+- Tenure-related churn decreases **significantly** over time.  
+- DSL users show better retention compared to fiber optic users.
 
-Recommendation: Implement early engagement programs and loyalty rewards to retain new customers.
+---
 
+## ✅ Strategic Recommendations
 
-🌐 Churn by Internet Service Type
+| Strategy | Description |
+|----------|-------------|
+| 📅 **Encourage Long-Term Contracts** | Offer discounts and rewards for annual/two-year plans |
+| 💰 **Improve Payment Security** | Educate users on reliable payment methods |
+| 🎯 **Enhance Early Engagement** | Onboarding offers, loyalty rewards, proactive support |
+| 🏡 **Senior Citizen Programs** | Tailored support and exclusive offers |
+| 🌍 **Improve Fiber Optic Retention** | Service feedback, better support, infrastructure improvements |
 
-Fiber Optic users churn at 30%, compared to 20% for DSL users.
+---
 
-Recommendation: Improve fiber optic service quality and address customer concerns through feedback surveys.
+## 📢 Next Steps
 
+- Launch **targeted retention campaigns** based on insights.
+- Set up **customer feedback loops** and regular churn trend monitoring.
+- Use **A/B testing** for contract and payment-related messaging.
+- Explore advanced analytics using **machine learning models** for churn prediction.
 
-👴 Senior Citizens and Churn
+---
 
-41% churn rate among senior citizens (65+ years old) vs. 26% for younger customers.
+## 🛠️ Tools Used
 
-Recommendation: Create tailored retention programs, including senior-friendly support and exclusive offers.
+✔️ Microsoft Excel  
+✔️ Python (Pandas, Matplotlib, Seaborn)  
+✔️ Data Cleaning & Visualization  
+✔️ Exploratory Data Analysis (EDA)  
 
+---
 
-📊 Visualizations & Data Insights
+## 📬 Contact  
+🔹 **Author:** Vaibhav Anand  
+🔹 **Email:** anandvaibhav02@gmail.com  
 
-Bar Charts & Line Graphs reveal clear trends in churn by payment method, contract type, and tenure.
+---
 
-Electronic check users churn almost 3x more than credit card users.
-
-Churn rate declines significantly as customer tenure increases, reinforcing the importance of early engagement.
-
-✅ Recommendations
-
-Encourage Long-Term Contracts 📅 – Offer incentives to switch to annual/two-year contracts.
-
-Improve Payment Security 💰 – Promote stable payment options and educate customers on benefits.
-
-Enhance Early Customer Engagement 🎯 – Implement onboarding offers, loyalty programs, and proactive support.
-
-Address Senior Citizen Churn 🏡 – Provide customized plans and dedicated customer service.
-
-Improve Fiber Optic Retention 🌍 – Conduct satisfaction surveys and optimize service quality.
-
-📢 Next Steps:
-
-Implement targeted retention campaigns based on these insights.
-
-Continuously monitor churn trends and adjust strategies accordingly.
-
-🚀 Let's reduce churn and improve customer satisfaction!
+⭐ _If you found this project helpful, don't forget to **star ⭐ the repository** and contribute your suggestions!_
